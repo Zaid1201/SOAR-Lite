@@ -19,7 +19,7 @@ This is a project that enriches IP addresses using two free APIs: AbuseIPDB and 
    - **VirusTotal**: https://www.virustotal.com/
 
 ## Setup
-Open .env file and add assign the API keys to their corresponding variables.
+Open the .env file and assign the API keys to their corresponding variables.
 
 ## Run the Script
 1. Place your suspicious IP addresses in `suspicious_ips.txt` (one IP per line).
