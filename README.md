@@ -14,7 +14,11 @@ This is a project that enriches IP addresses using two free APIs: AbuseIPDB and 
    ```bash
    python -m pip install requests
    ```
-3. Get free API keys:
+3. Install python-dotenv:
+   ```bash
+   python -m pip install python-dotenv
+   ```
+4. Get free API keys:
    - **AbuseIPDB**: https://www.abuseipdb.com/
    - **VirusTotal**: https://www.virustotal.com/
 
