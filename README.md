@@ -6,7 +6,7 @@ This is a project that enriches IP addresses using two free APIs: AbuseIPDB and 
 ## Project Structure
 - `soar_lite.py` — Main Python script.
 - `suspicious_ips.txt` — File containing example IP addresses.
-- `README.txt` — Instructions and setup steps.
+- `README.md` — Instructions and setup steps.
 
 ## Requirements
 1. Install Python 3 (https://www.python.org/downloads/)
